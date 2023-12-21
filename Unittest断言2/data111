@@ -1,0 +1,59 @@
+ID	Work Item Type	Title	Assigned To	State	Tags
+149562	Bug	[iOS] GT user profile settings disappeared	North Overby	Approved	iOS
+149422	Bug	[iOS] 'Auto-scroll translated text' text is not localized	North Overby	Approved	iOS
+149420	Bug	[iOS] There's no response when clicking share, favorite and delete icons under single mode.	North Overby	Approved	iOS
+149297	Bug	[iOS] Favorites and Phrasebook titles disappeared immediately after opening them on iOS 17	North Overby	Approved	iOS
+149249	Bug	[iOS] Translation settings icon disappeared in home page		Removed	iOS
+149247	Bug	[iOS] Text support is not yet functional in split screen and in single mode screen.	North Overby	Approved	iOS
+149245	Bug	[iOS] Some elements are invisible under split screen mode	North Overby	Approved	iOS
+149090	Bug	[iOS] In Recent Languages list of To language, the OCR not supported language can switch to From language	North Overby	Approved	iOS; PUG-Wave1
+149089	Bug	[iOS] OCR not supported language shows in From Recent Languages list		Approved	iOS; PUG-Wave3
+149066	Bug	[iOS] Nearby Sessions UI issue when back to portrait mode from landscape mode on iOS 17	North Overby	Approved	iOS; PUG-Wave2
+149044	Bug	[iOS] Full screen view icon is invisible	Sigma Li (CSI Interfusion Inc)	Removed	iOS
+149043	Bug	[iOS] The color of Copy and Favorite icons are gray in history card	North Overby	Approved	iOS; PUG-Wave2
+148906	Bug	[iOS] Page elements are not displayed appropriately after the phone is landscaped		Done	iOS
+148808	Bug	[iOS] Can create history card without any text	North Overby	Approved	iOS; PUG-Wave1
+148806	Bug	[iOS] After horizontal screen, full screen view will automatically exit		Done	iOS
+148804	Bug	[iOS] Input keyboard disappeared when back to home page	North Overby	Approved	iOS; PUG-Wave1
+148772	Bug	[iOS] TTS icon doesn't change to Playing icon		Done	iOS
+148771	Bug	[iOS] "Hi" word is not translated in device language.	Tyler Stratton	Approved	iOS; PUG-Wave1
+148768	Bug	[iOS] Black screen issue after updating the Translator App	North Overby	Approved	iOS; PUG-Wave1
+148747	Bug	[iOS] Slovak language localization issue		Approved	iOS
+148745	Bug	[iOS] The translated content restores to placeholder once manually stopping record voice		Done	iOS
+148743	Bug	[iOS] Microphone issue under Split screen mode		Removed	iOS
+148741	Bug	[iOS] TTS button cannot clickable under Split screen mode.		Done	iOS
+148740	Bug	[iOS] Camera icon is not disabled when From and To language are all not supported language for OCR mode	North Overby	Approved	iOS
+148739	Bug	[iOS] When clicking capture icon, it always shows loading symbol when the From language is a not supported language under OCR mode	North Overby	Approved	iOS
+148717	Bug	[iOS] From and To language does not change in Split screen mode		Done	iOS
+148710	Bug	[iOS] There's no length limit in conversation input code filed	North Overby	Approved	iOS
+148698	Bug	[iOS] Language change in Translation settings is useless for From and To language under split screen mode		Done	iOS
+148692	Bug	[iOS] Some elements in Language selection page missed (search bar, etc)		Done	iOS; PUG-Wave1
+148691	Bug	[iOS] Cannot open language details		Done	iOS; PUG-Wave1
+148690	Bug	[iOS] See full list of supported languages and features link cannot clickable		Done	iOS; PUG-Wave1
+148689	Bug	[iOS] Some elements cannot clickable under Split screen mode		Done	iOS
+148560	Bug	[Android] Cannot install the Microsoft Translator app on Android 10 emulator		New	Android
+148559	Bug	[Android] From and To language can set same language		New	Android
+148557	Bug	[Android] OCR function isn't working well		New	Android
+148552	Bug	[Android] Cannot navigate to device settings from Translator App when deny OCR and mic permission		New	Android
+148377	Bug	[Android] The maximum number of used languages in the Recent Languages list is not fixed		New	Android
+148376	Bug	[Android] Recent Languages list small window is invisible after changing language once		New	Android
+148218	Bug	[Android] Cannot change the Second language in language setting page		New	Android
+147560	Bug	[Android] remove Disagree button from terms of service to match iOS	Tyler Stratton	Approved	Android; A-P0
+147558	Bug	[Android] Camera icon does not disable when choosing the language which is not supported for image translation	Tyler Stratton	Approved	Android
+147555	Bug	[Android] Cannot translate the content which contains rich text layout or nothing		New	Android
+147529	Bug	[web app] After five minutes without conversation the conversation will automatically quit		New	web app
+147528	Bug	[web app] There is no response after opening Auto speak translations	Alex Neshyba	Done	web app
+147471	Bug	[Android] Conversation code still shows on participators Nearby Session list when ending the conversation on host device		New	Android
+147458	Bug	[Android] There's no notification shows on participators devices when the Presentation mode on		New	Android
+147455	Bug	[Android] Some items in Settings page disappeared		New	Android
+147453	Bug	[Android] 'Speech translation in progress' still shows when Click speech Translation button after disable the mic permission on device		New	Android
+147412	Bug	[web app] The font of Third Party Notice page looks weird	Sigma Li (CSI Interfusion Inc)	Removed	web app
+147411	Bug	[web app] Services agreement and Contract summary page is not localized	Alex Neshyba	Approved	web app
+147408	Bug	[web app] The content of Join conversation is not localized	Alex Neshyba	Approved	web app; W-P0
+147406	Bug	[web app] The scroll bar is not automatically appeared on Chromebook when there is multiple conversations	Sigma Li (CSI Interfusion Inc)	Removed	web app
+147151	Bug	[Android] Text translated with images cannot be copied		New	Android
+147082	Bug	[Android] There's no Cancel button behind the search bar		New	Android
+147079	Bug	[Android] No Clear icon at the end of search bar when inputting some strings		New	Android
+147075	Bug	[Android] 'See full list of supported languages and features' link is invisible		New	Android
+146989	Bug	The carousel of 'For personal use' pages is stationary	Swetha Machanavajhala	Approved	translator marketing website
+146988	Bug	'Translator' and 'Microsoft' are not localized in some languages		Removed	translator marketing website

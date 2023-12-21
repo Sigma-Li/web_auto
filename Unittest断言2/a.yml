@@ -1,0 +1,17 @@
+
+name : 'Sigma'                   #字典
+age : 25
+score :                           #嵌套字典
+  chinese: 98
+  math: 99
+  english: 98
+
+temper:                          #嵌套列表，key: value(列表)
+  - 26
+  - 30
+  - 18
+
+
+
+
+
